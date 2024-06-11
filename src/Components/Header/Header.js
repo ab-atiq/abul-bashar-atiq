@@ -36,7 +36,7 @@ const Header = () => {
           </Nav>
           <Nav>
             <a
-              href="https://drive.google.com/file/d/1Zqq7_rKovSBRdRrgo1t0Kj8twh4iTwSO/view"
+              href="https://docs.google.com/document/d/1flTTXd13PiKnza11zEe_Rxn0oUDp-76MEXYd9WPyH0U/"
               target="_blank"
               rel="noreferrer"
             >
